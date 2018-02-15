@@ -2,3 +2,7 @@ out/
 *.rpm
 *.deb
 .vagrant*/
+.project
+*sublime*
+*.TODO
+*.todo
